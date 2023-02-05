@@ -14,8 +14,16 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/seixasqlc/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthurspk/)
 [<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/manotoquinho)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arthurspk/)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/guiadevbrasil/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
 </sub>
+
+## :closed_book: E-Book
+
+> Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Você pode me ajudar comprando o e-book "e-Front" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento front-end. O e-book é completo e cobre tecnologias essenciais como HTML, CSS, JavaScript, React, TypeScript e mais. O valor é simbólico e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento front-end.
+
+- eFront - Estudando Desenvolvimento Front-end do Zero. [Clique aqui para comprar](https://hotm.art/cSMObU)
 
 ## ⚠️ Aviso importante
 
@@ -209,6 +217,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [C++ - W3Schools](https://www.w3schools.com/cpp/default.asp) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
 - [Documentação da linguagem C++](https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-170) - Documentação oficial da linguagem C++ em PT-BR
 - [Cursos de C++](https://github.com/arthurspk/guiadevbrasil#-cursos-de-c-2) - Cursos de C++ diretamente do repositório geral do Guia Dev Brasil
+- [Tutorial de C++ para iniciantes](https://www.scaler.com/topics/css) - Aprenda C++ para iniciantes. Este tutorial consiste em tópicos C++ passo a passo completos.  
 
 ## ◾ C#
 
@@ -218,7 +227,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [C# - W3Schools](https://www.w3schools.com/cs/index.php) - W3Schools é um site educacional voltado ao aprendizado de tecnologias web. Seu conteúdo inclui tutoriais e referências relacionadas a diversas linguagens.
 - [Documentação da linguagem C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Documentação oficial da linguagem C# em PT-BR
 - [Cursos de C#](https://github.com/arthurspk/guiadevbrasil#-cursos-de-c) - Cursos de C# diretamente do repositório geral do Guia Dev Brasil
-- [Tutorial de C++ para iniciantes](https://www.scaler.com/topics/css) - Aprenda C++ para iniciantes. Este tutorial consiste em tópicos C++ passo a passo completos.
 
 ## ◾ R
 
